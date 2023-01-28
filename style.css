@@ -1,0 +1,14 @@
+#title {
+    color: red;
+}
+
+#container {
+    padding: 20px;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+
+.paragraphs {
+    color:black;
+}
